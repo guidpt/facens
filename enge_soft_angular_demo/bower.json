@@ -1,0 +1,19 @@
+{
+  "name": "enge_soft_angular_demo",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/guidpt/facens",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "materialize": "^0.97.7",
+    "animate.css": "^3.5.2"
+  }
+}
